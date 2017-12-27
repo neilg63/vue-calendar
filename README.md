@@ -1,5 +1,7 @@
 # Ultimate Vue.js Developers Course
 
+This is my version of Anthony Gore's Calendar developed for Udemy course with only minor modifications.
+
 Source code for the [Ultimate Vue.js Developers Course](http://bit.ly/2mPK8ny).
 
 ### Project 3: Vue.js Calendar
